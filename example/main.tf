@@ -15,3 +15,11 @@ terraform {
 provider "aws" {
   region = var.region
 }
+
+
+module "this" {
+  source      = "../"
+  environment = "poc"
+  namespace   = "arc"
+  region      = var.region
+}
