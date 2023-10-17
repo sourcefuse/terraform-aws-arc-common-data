@@ -1,4 +1,6 @@
-# terraform-aws-module-template
+# [terraform-aws-arc-common-data](https://github.com/sourcefuse/terraform-aws-arc-common-data)
+
+[![Known Vulnerabilities](https://github.com/sourcefuse/terraform-aws-arc-common-data/actions/workflows/snyk.yaml/badge.svg)](https://github.com/sourcefuse/terraform-aws-arc-common-data/actions/workflows/snyk.yaml)
 
 ## Overview
 
