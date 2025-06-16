@@ -16,6 +16,7 @@ SourceFuse AWS Reference Architecture (ARC) Terraform module for querying the mo
 To see a full example, check out the [main.tf](./example/main.tf) file in the example folder.  
 
 ```hcl
+
 module "this" {
   source = "git::https://github.com/sourcefuse/terraform-aws-arc-common-data"
   environment = var.environment
